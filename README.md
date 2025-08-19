@@ -1,21 +1,19 @@
 <div align="center">
-  <span aling="center" style="font-size: 1.5rem;">
-    <img src="./assets/images/gretting.webp" width="25px"> Hi there!
-  </span>
-  <h1 style="margin-top: 0;" align="center">My name is Jhonny Garcia</h1>
+  <h1 style="margin-top: 0px;" align="center">
+    <span aling="center" style="font-size: 1.5rem;">
+      <img src="./assets/images/gretting.webp" width="25px"> Hi there!
+    </span>
+    I'm Jhonny Garcia
+    <br>
+    <small style="color: #969592;">Software Engineer & Blockchain Developer</small>
+  </h1>
 </div>
-
-Software Engineer & Blockchain Developer
----------------------------------------------------------------
 
 * 🌍  Venezuelan 🇻🇪 currently living in Medellín, Colombia 🇨🇴
 * ✉️  You can contact me at [jhonnycgarcia@gmail.com](mailto:jhonnycgarcia@gmail.com)
 * 👥  I'm open to collaborate on high-impact projects across Web2 & Web3 technologies
 
 ## 🤝 <b> Let's Connect!</b> <img src="./assets/images/handshake.webp" width ="80">
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnycgarcia/)
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhonnycgarcia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhonnycgarcia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonnycgarcia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jhonnychc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhonnycgarcia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhonnycgaria@gmail.com) 
 
 ## 💻 Tech Stack:
