@@ -19,7 +19,6 @@ Software Engineer | Sr Full Stack Developer | Blockchain Developer
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhonnycgarcia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhonnycgarcia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonnycgarcia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jhonnychc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhonnycgarcia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhonnycgaria@gmail.com) 
 
 ## 💻 Tech Stack:
----
 ### Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -58,7 +57,6 @@ Software Engineer | Sr Full Stack Developer | Blockchain Developer
 
 
 ## ⚙️ GitHub Analytics
----
 <a href="https://github.com/jhonnycgarcia">
   <img 
     height=200 
