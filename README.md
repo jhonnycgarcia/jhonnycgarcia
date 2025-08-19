@@ -1,15 +1,25 @@
-# <img src="./assets/images/gretting.webp" width="25px"> Hi there! My name is Jhonny Garcia
+<div align="center">
+  <span aling="center" style="font-size: 1.5rem;">
+    <img src="./assets/images/gretting.webp" width="25px"> Hi there!
+  </span>
+  <h1 style="margin-top: 0;" align="center">My name is Jhonny Garcia</h1>
+</div>
 
-<!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there -->
-Software Engineer | Full Stack Developer | Blockchain Developer
+Software Engineer | Sr Full Stack Developer | Blockchain Developer
 ---------------------------------------------------------------
 
 * 🌍  Venezuelan 🇻🇪 currently living in Medellín, Colombia 🇨🇴
 * ✉️  You can contact me at [jhonnycgarcia@gmail.com](mailto:jhonnycgarcia@gmail.com)
 * 👥  I'm open to collaborate on high-impact projects across Web2 & Web3 technologies
 
-## 💻 Tech Stack:
+## 🤝 <b> Let's Connect!</b> <img src="./assets/images/handshake.webp" width ="80">
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnycgarcia/)
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhonnycgarcia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhonnycgarcia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonnycgarcia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jhonnychc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhonnycgarcia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhonnycgaria@gmail.com) 
+
+## 💻 Tech Stack:
+---
 ### Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -46,39 +56,18 @@ Software Engineer | Full Stack Developer | Blockchain Developer
 ### DevOps & Project Management
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🤝 <b> Let's Connect!</b> <img src="./assets/images/handshake.webp" width ="80">
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnycgarcia/)
 
-<!--
-**jhonnycgarcia/jhonnycgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/jhonnycgarcia">
-    <img 
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonnycgarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-    />
-    <img 
-      height="180em"
-      alt="Top Languages"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonnycgarcia&layout=compact&langs_count=8&theme=algolia&custom_title=Top%20%Languages"
-    />
-  </a>
-</p>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhonnycgarcia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhonnycgarcia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonnycgarcia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jhonnychc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhonnycgarcia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhonnycgaria@gmail.com) 
+## ⚙️ GitHub Analytics
+---
+<a href="https://github.com/jhonnycgarcia">
+  <img 
+    height=200 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=jhonnycgarcia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=algolia"
+  />
+  <img 
+    height=200
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnycgarcia&size_weight=0.5&count_weight=0.5&layout=compact&theme=algolia&langs_count=8&card_width=320"
+  />
+</a>
