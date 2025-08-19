@@ -3,7 +3,7 @@
     <span aling="center" style="font-size: 1.5rem;">
       <img src="./assets/images/gretting.webp" width="25px"> Hi there!
     </span>
-    I'm Jhonny Garcia
+    I'm Jhonny Garcia,
     <br>
     <small style="color: #969592;">Software Engineer & Blockchain Developer</small>
   </h1>
