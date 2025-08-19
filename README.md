@@ -5,7 +5,7 @@
   <h1 style="margin-top: 0;" align="center">My name is Jhonny Garcia</h1>
 </div>
 
-Software Engineer | Sr Full Stack Developer | Blockchain Developer
+Software Engineer & Blockchain Developer
 ---------------------------------------------------------------
 
 * 🌍  Venezuelan 🇻🇪 currently living in Medellín, Colombia 🇨🇴
